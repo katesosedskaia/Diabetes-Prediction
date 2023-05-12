@@ -1,0 +1,50 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "8358526e",
+   "metadata": {},
+   "source": [
+    "### Introduction\n",
+    "Diabetes is a chronic disease that affects millions of people worldwide. Early detection is crucial to prevent complications and manage the disease effectively. In this project, we will be building a machine learning model that can predict whether a person has diabetes based on several features such as age, gender, hypertension, heart disease, smoking history, BMI, HbA1c level, and blood glucose level.\n",
+    "\n",
+    "### Dataset\n",
+    "We will be using a dataset that contains information about patients, including their medical history and lab results. By analyzing this data, we can identify patterns and relationships between the features and diabetes risk and build a predictive model to classify individuals as either diabetic or non-diabetic.\n",
+    "\n",
+    "### Goals\n",
+    "Our ultimate goal is to create a machine learning model that accurately predicts diabetes status and can be used by healthcare professionals to identify at-risk individuals and provide early interventions. In this notebook, we will:\n",
+    "\n",
+    "1) Perform exploratory data analysis (EDA) to gain insights into the data and identify any data quality issues.\n",
+    "\n",
+    "2) Preprocess the data to prepare it for machine learning.\n",
+    "\n",
+    "3) Build and train a machine learning model to predict diabetes status.\n",
+    "\n",
+    "4) Evaluate the performance of our model using various performance metrics.\n",
+    "\n",
+    "5) Let's get started!"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.9.13"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
